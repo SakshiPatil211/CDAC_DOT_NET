@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\bin\Debug\net8.0\Virtual&OverrideInInheritance.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\bin\Debug\net8.0\Virtual&OverrideInInheritance.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\bin\Debug\net8.0\Virtual&OverrideInInheritance.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\bin\Debug\net8.0\Virtual&OverrideInInheritance.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\bin\Debug\net8.0\Virtual&OverrideInInheritance.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\obj\Debug\net8.0\Virtual&OverrideInInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\obj\Debug\net8.0\Virtual&OverrideInInheritance.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\obj\Debug\net8.0\Virtual&OverrideInInheritance.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\obj\Debug\net8.0\Virtual&OverrideInInheritance.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\obj\Debug\net8.0\Virtual&OverrideInInheritance.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\obj\Debug\net8.0\refint\Virtual&OverrideInInheritance.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\obj\Debug\net8.0\Virtual&OverrideInInheritance.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\obj\Debug\net8.0\Virtual&OverrideInInheritance.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\obj\Debug\net8.0\ref\Virtual&OverrideInInheritance.dll

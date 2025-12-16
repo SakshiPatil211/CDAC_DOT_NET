@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\bin\Debug\net8.0\HollowDiamondPattern.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\bin\Debug\net8.0\HollowDiamondPattern.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\bin\Debug\net8.0\HollowDiamondPattern.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\bin\Debug\net8.0\HollowDiamondPattern.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\bin\Debug\net8.0\HollowDiamondPattern.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\obj\Debug\net8.0\HollowDiamondPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\obj\Debug\net8.0\HollowDiamondPattern.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\obj\Debug\net8.0\HollowDiamondPattern.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\obj\Debug\net8.0\HollowDiamondPattern.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\obj\Debug\net8.0\HollowDiamondPattern.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\obj\Debug\net8.0\refint\HollowDiamondPattern.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\obj\Debug\net8.0\HollowDiamondPattern.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\obj\Debug\net8.0\HollowDiamondPattern.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\HollowDiamondPattern\obj\Debug\net8.0\ref\HollowDiamondPattern.dll

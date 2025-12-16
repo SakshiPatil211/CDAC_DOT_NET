@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\bin\Debug\net8.0\DotNetCoreHelloWorld.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\bin\Debug\net8.0\DotNetCoreHelloWorld.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\bin\Debug\net8.0\DotNetCoreHelloWorld.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\bin\Debug\net8.0\DotNetCoreHelloWorld.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\bin\Debug\net8.0\DotNetCoreHelloWorld.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\obj\Debug\net8.0\DotNetCoreHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\obj\Debug\net8.0\DotNetCoreHelloWorld.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\obj\Debug\net8.0\DotNetCoreHelloWorld.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\obj\Debug\net8.0\DotNetCoreHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\obj\Debug\net8.0\DotNetCoreHelloWorld.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\obj\Debug\net8.0\refint\DotNetCoreHelloWorld.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\obj\Debug\net8.0\DotNetCoreHelloWorld.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\obj\Debug\net8.0\DotNetCoreHelloWorld.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DotNetCoreHelloWorld\obj\Debug\net8.0\ref\DotNetCoreHelloWorld.dll

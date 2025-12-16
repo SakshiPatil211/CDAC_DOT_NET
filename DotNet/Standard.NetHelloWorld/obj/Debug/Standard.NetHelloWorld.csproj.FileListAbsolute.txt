@@ -1,0 +1,7 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Standard.NetHelloWorld\bin\Debug\Standard.NetHelloWorld.exe.config
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Standard.NetHelloWorld\bin\Debug\Standard.NetHelloWorld.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Standard.NetHelloWorld\bin\Debug\Standard.NetHelloWorld.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Standard.NetHelloWorld\obj\Debug\Standard.NetHelloWorld.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Standard.NetHelloWorld\obj\Debug\Standard.NetHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Standard.NetHelloWorld\obj\Debug\Standard.NetHelloWorld.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Standard.NetHelloWorld\obj\Debug\Standard.NetHelloWorld.pdb
