@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\bin\Debug\net8.0\DependencyInjectionPatternNotePad.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\bin\Debug\net8.0\DependencyInjectionPatternNotePad.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\bin\Debug\net8.0\DependencyInjectionPatternNotePad.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\bin\Debug\net8.0\DependencyInjectionPatternNotePad.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\bin\Debug\net8.0\DependencyInjectionPatternNotePad.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\obj\Debug\net8.0\DependencyInjectionPatternNotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\obj\Debug\net8.0\DependencyInjectionPatternNotePad.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\obj\Debug\net8.0\DependencyInjectionPatternNotePad.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\obj\Debug\net8.0\DependencyInjectionPatternNotePad.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\obj\Debug\net8.0\DependencyInjectionPatternNotePad.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\obj\Debug\net8.0\DependencyInjectionPatternNotePad.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\obj\Debug\net8.0\refint\DependencyInjectionPatternNotePad.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\obj\Debug\net8.0\DependencyInjectionPatternNotePad.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\obj\Debug\net8.0\DependencyInjectionPatternNotePad.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\DependencyInjectionPatternNotePad\obj\Debug\net8.0\ref\DependencyInjectionPatternNotePad.dll

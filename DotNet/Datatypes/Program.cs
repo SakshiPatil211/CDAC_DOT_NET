@@ -15,7 +15,7 @@
             //Type Casting
             double d = 9.78;
             Console.WriteLine(d);   
-            int num1 = Convert.ToInt16(d); //Explicit Typecasting
+            int num1 = Convert.ToInt32(d); //Explicit Typecasting
             Console.WriteLine(num1);
             double d2 = num1; //Implicit Typecasting
             Console.WriteLine(d2);

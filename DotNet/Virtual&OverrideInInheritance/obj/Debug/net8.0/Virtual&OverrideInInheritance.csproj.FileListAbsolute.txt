@@ -12,3 +12,4 @@ C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInherita
 C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\obj\Debug\net8.0\Virtual&OverrideInInheritance.pdb
 C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\obj\Debug\net8.0\Virtual&OverrideInInheritance.genruntimeconfig.cache
 C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\obj\Debug\net8.0\ref\Virtual&OverrideInInheritance.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Virtual&OverrideInInheritance\obj\Debug\net8.0\Virtual&OverrideInInheritance.sourcelink.json

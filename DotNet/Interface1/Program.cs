@@ -25,6 +25,9 @@
 
     // Explicit Implementation of Interface
 
+    #region Interface IX IY
+
+   
     public interface IX
     {
         int add(int a, int b);
@@ -35,6 +38,7 @@
         int add(int a, int b);
         int mul(int a, int b);
     }
+    #endregion
 
     public class MyMath : IX, IY
     {

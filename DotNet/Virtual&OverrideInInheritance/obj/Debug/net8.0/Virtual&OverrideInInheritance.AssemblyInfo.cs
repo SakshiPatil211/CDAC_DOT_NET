@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Virtual&OverrideInInheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fdfd5125f8305138c3012a383ebd69ac0491914")]
 [assembly: System.Reflection.AssemblyProductAttribute("Virtual&OverrideInInheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Virtual&OverrideInInheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

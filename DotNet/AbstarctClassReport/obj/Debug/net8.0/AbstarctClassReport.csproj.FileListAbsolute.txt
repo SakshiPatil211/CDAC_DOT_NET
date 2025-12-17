@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\obj\Debug\net8.0\AbstarctClassReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\obj\Debug\net8.0\AbstarctClassReport.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\obj\Debug\net8.0\AbstarctClassReport.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\obj\Debug\net8.0\AbstarctClassReport.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\obj\Debug\net8.0\AbstarctClassReport.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\bin\Debug\net8.0\AbstarctClassReport.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\bin\Debug\net8.0\AbstarctClassReport.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\bin\Debug\net8.0\AbstarctClassReport.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\bin\Debug\net8.0\AbstarctClassReport.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\bin\Debug\net8.0\AbstarctClassReport.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\obj\Debug\net8.0\AbstarctClassReport.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\obj\Debug\net8.0\refint\AbstarctClassReport.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\obj\Debug\net8.0\AbstarctClassReport.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\obj\Debug\net8.0\AbstarctClassReport.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\AbstarctClassReport\obj\Debug\net8.0\ref\AbstarctClassReport.dll

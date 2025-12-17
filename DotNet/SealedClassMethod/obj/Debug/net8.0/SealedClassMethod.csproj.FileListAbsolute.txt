@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\bin\Debug\net8.0\SealedClassMethod.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\bin\Debug\net8.0\SealedClassMethod.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\bin\Debug\net8.0\SealedClassMethod.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\bin\Debug\net8.0\SealedClassMethod.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\bin\Debug\net8.0\SealedClassMethod.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\obj\Debug\net8.0\refint\SealedClassMethod.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\SealedClassMethod\obj\Debug\net8.0\ref\SealedClassMethod.dll
