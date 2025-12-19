@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\bin\Debug\net8.0\Properties.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\bin\Debug\net8.0\Properties.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\bin\Debug\net8.0\Properties.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\bin\Debug\net8.0\Properties.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\bin\Debug\net8.0\Properties.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\obj\Debug\net8.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\obj\Debug\net8.0\Properties.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\obj\Debug\net8.0\Properties.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\obj\Debug\net8.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\obj\Debug\net8.0\Properties.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\obj\Debug\net8.0\Properties.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\obj\Debug\net8.0\refint\Properties.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\obj\Debug\net8.0\Properties.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\obj\Debug\net8.0\Properties.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Properties\obj\Debug\net8.0\ref\Properties.dll

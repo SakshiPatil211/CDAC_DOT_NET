@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\bin\Debug\net8.0\EventDelegate1.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\bin\Debug\net8.0\EventDelegate1.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\bin\Debug\net8.0\EventDelegate1.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\bin\Debug\net8.0\EventDelegate1.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\bin\Debug\net8.0\EventDelegate1.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\obj\Debug\net8.0\EventDelegate1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\obj\Debug\net8.0\EventDelegate1.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\obj\Debug\net8.0\EventDelegate1.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\obj\Debug\net8.0\EventDelegate1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\obj\Debug\net8.0\EventDelegate1.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\obj\Debug\net8.0\EventDelegate1.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\obj\Debug\net8.0\refint\EventDelegate1.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\obj\Debug\net8.0\EventDelegate1.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\obj\Debug\net8.0\EventDelegate1.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EventDelegate\obj\Debug\net8.0\ref\EventDelegate1.dll

@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CMathLibrary\obj\Debug\net8.0\CMathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CMathLibrary\obj\Debug\net8.0\CMathLibrary.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CMathLibrary\obj\Debug\net8.0\CMathLibrary.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CMathLibrary\obj\Debug\net8.0\CMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CMathLibrary\obj\Debug\net8.0\CMathLibrary.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CMathLibrary\bin\Debug\net8.0\CMathLibrary.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CMathLibrary\bin\Debug\net8.0\CMathLibrary.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CMathLibrary\bin\Debug\net8.0\CMathLibrary.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CMathLibrary\obj\Debug\net8.0\CMathLibrary.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CMathLibrary\obj\Debug\net8.0\refint\CMathLibrary.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CMathLibrary\obj\Debug\net8.0\CMathLibrary.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CMathLibrary\obj\Debug\net8.0\ref\CMathLibrary.dll

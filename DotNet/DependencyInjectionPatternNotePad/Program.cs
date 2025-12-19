@@ -52,10 +52,7 @@ namespace DependencyInjectionPatternNotePad
             _checker.DospellCheck();
         }
     }
-    public interface ISpellChecker
-    {
-        void DospellCheck();
-    }
+    
     public class SpellCheckerFactor
     {
         ISpellChecker _somechecker = null;
@@ -82,7 +79,10 @@ namespace DependencyInjectionPatternNotePad
             return _somechecker;
         }
     }
-
+    public interface ISpellChecker
+    {
+        void DospellCheck();
+    }
     public class EnglishSpellChecker: ISpellChecker
     {
         public void DospellCheck()
@@ -114,6 +114,4 @@ namespace DependencyInjectionPatternNotePad
             Console.WriteLine("Speck Check done for Hindi Text");
         }
     }
-
-
 }

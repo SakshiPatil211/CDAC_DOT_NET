@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\bin\Debug\net8.0\OberserverPattern.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\bin\Debug\net8.0\OberserverPattern.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\bin\Debug\net8.0\OberserverPattern.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\bin\Debug\net8.0\OberserverPattern.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\bin\Debug\net8.0\OberserverPattern.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\obj\Debug\net8.0\OberserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\obj\Debug\net8.0\OberserverPattern.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\obj\Debug\net8.0\OberserverPattern.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\obj\Debug\net8.0\OberserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\obj\Debug\net8.0\OberserverPattern.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\obj\Debug\net8.0\OberserverPattern.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\obj\Debug\net8.0\refint\OberserverPattern.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\obj\Debug\net8.0\OberserverPattern.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\obj\Debug\net8.0\OberserverPattern.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\OberserverPattern\obj\Debug\net8.0\ref\OberserverPattern.dll

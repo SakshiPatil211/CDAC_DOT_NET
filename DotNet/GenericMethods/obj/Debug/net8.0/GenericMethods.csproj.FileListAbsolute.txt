@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\bin\Debug\net8.0\GenericMethods.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\bin\Debug\net8.0\GenericMethods.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\bin\Debug\net8.0\GenericMethods.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\bin\Debug\net8.0\GenericMethods.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\bin\Debug\net8.0\GenericMethods.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\obj\Debug\net8.0\GenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\obj\Debug\net8.0\GenericMethods.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\obj\Debug\net8.0\GenericMethods.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\obj\Debug\net8.0\GenericMethods.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\obj\Debug\net8.0\GenericMethods.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\obj\Debug\net8.0\GenericMethods.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\obj\Debug\net8.0\refint\GenericMethods.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\obj\Debug\net8.0\GenericMethods.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\obj\Debug\net8.0\GenericMethods.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GenericMethods\obj\Debug\net8.0\ref\GenericMethods.dll
