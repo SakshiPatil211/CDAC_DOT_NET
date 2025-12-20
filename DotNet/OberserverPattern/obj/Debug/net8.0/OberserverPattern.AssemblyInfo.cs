@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OberserverPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c201acd797389bf1b1c45b8570873eb06cf3cf24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fea2726148bb7b194ed9d1362580dc8277549257")]
 [assembly: System.Reflection.AssemblyProductAttribute("OberserverPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OberserverPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

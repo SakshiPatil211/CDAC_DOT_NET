@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\bin\Debug\net8.0\XMLJSONSerialization.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\bin\Debug\net8.0\XMLJSONSerialization.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\bin\Debug\net8.0\XMLJSONSerialization.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\bin\Debug\net8.0\XMLJSONSerialization.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\bin\Debug\net8.0\XMLJSONSerialization.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\obj\Debug\net8.0\XMLJSONSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\obj\Debug\net8.0\XMLJSONSerialization.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\obj\Debug\net8.0\XMLJSONSerialization.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\obj\Debug\net8.0\XMLJSONSerialization.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\obj\Debug\net8.0\XMLJSONSerialization.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\obj\Debug\net8.0\XMLJSONSerialization.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\obj\Debug\net8.0\refint\XMLJSONSerialization.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\obj\Debug\net8.0\XMLJSONSerialization.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\obj\Debug\net8.0\XMLJSONSerialization.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\XMLJSONSerialization\obj\Debug\net8.0\ref\XMLJSONSerialization.dll
