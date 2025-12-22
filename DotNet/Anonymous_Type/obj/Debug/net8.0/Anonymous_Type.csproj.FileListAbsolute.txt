@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\bin\Debug\net8.0\Anonymous_Type.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\bin\Debug\net8.0\Anonymous_Type.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\bin\Debug\net8.0\Anonymous_Type.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\bin\Debug\net8.0\Anonymous_Type.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\bin\Debug\net8.0\Anonymous_Type.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\obj\Debug\net8.0\Anonymous_Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\obj\Debug\net8.0\Anonymous_Type.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\obj\Debug\net8.0\Anonymous_Type.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\obj\Debug\net8.0\Anonymous_Type.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\obj\Debug\net8.0\Anonymous_Type.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\obj\Debug\net8.0\Anonymous_Type.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\obj\Debug\net8.0\refint\Anonymous_Type.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\obj\Debug\net8.0\Anonymous_Type.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\obj\Debug\net8.0\Anonymous_Type.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Type\obj\Debug\net8.0\ref\Anonymous_Type.dll

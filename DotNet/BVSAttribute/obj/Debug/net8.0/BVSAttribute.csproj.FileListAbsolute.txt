@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\BVSAttribute\bin\Debug\net8.0\BVSAttribute.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\BVSAttribute\bin\Debug\net8.0\BVSAttribute.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\BVSAttribute\bin\Debug\net8.0\BVSAttribute.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\BVSAttribute\obj\Debug\net8.0\BVSAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\BVSAttribute\obj\Debug\net8.0\BVSAttribute.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\BVSAttribute\obj\Debug\net8.0\BVSAttribute.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\BVSAttribute\obj\Debug\net8.0\BVSAttribute.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\BVSAttribute\obj\Debug\net8.0\BVSAttribute.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\BVSAttribute\obj\Debug\net8.0\BVSAttribute.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\BVSAttribute\obj\Debug\net8.0\refint\BVSAttribute.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\BVSAttribute\obj\Debug\net8.0\BVSAttribute.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\BVSAttribute\obj\Debug\net8.0\ref\BVSAttribute.dll

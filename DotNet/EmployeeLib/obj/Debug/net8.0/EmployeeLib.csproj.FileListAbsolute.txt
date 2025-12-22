@@ -1,0 +1,6 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EmployeeLib\obj\Debug\net8.0\EmployeeLib.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EmployeeLib\obj\Debug\net8.0\EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EmployeeLib\obj\Debug\net8.0\EmployeeLib.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EmployeeLib\obj\Debug\net8.0\EmployeeLib.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EmployeeLib\obj\Debug\net8.0\EmployeeLib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\EmployeeLib\obj\Debug\net8.0\EmployeeLib.sourcelink.json

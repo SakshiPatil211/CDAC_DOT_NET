@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\bin\Debug\net8.0\Object_Initializer.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\bin\Debug\net8.0\Object_Initializer.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\bin\Debug\net8.0\Object_Initializer.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\bin\Debug\net8.0\Object_Initializer.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\bin\Debug\net8.0\Object_Initializer.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\obj\Debug\net8.0\Object_Initializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\obj\Debug\net8.0\Object_Initializer.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\obj\Debug\net8.0\Object_Initializer.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\obj\Debug\net8.0\Object_Initializer.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\obj\Debug\net8.0\Object_Initializer.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\obj\Debug\net8.0\Object_Initializer.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\obj\Debug\net8.0\refint\Object_Initializer.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\obj\Debug\net8.0\Object_Initializer.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\obj\Debug\net8.0\Object_Initializer.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Object_Initializer\obj\Debug\net8.0\ref\Object_Initializer.dll

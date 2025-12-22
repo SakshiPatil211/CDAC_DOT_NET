@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\bin\Debug\net8.0\ImplicitType.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\bin\Debug\net8.0\ImplicitType.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\bin\Debug\net8.0\ImplicitType.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\bin\Debug\net8.0\ImplicitType.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\bin\Debug\net8.0\ImplicitType.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\obj\Debug\net8.0\ImplicitType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\obj\Debug\net8.0\ImplicitType.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\obj\Debug\net8.0\ImplicitType.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\obj\Debug\net8.0\ImplicitType.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\obj\Debug\net8.0\ImplicitType.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\obj\Debug\net8.0\ImplicitType.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\obj\Debug\net8.0\refint\ImplicitType.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\obj\Debug\net8.0\ImplicitType.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\obj\Debug\net8.0\ImplicitType.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\ImplicitType\obj\Debug\net8.0\ref\ImplicitType.dll

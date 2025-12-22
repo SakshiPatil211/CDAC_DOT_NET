@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CustomAtribute\bin\Debug\net8.0\CustomAtribute.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CustomAtribute\bin\Debug\net8.0\CustomAtribute.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CustomAtribute\bin\Debug\net8.0\CustomAtribute.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CustomAtribute\obj\Debug\net8.0\CustomAtribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CustomAtribute\obj\Debug\net8.0\CustomAtribute.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CustomAtribute\obj\Debug\net8.0\CustomAtribute.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CustomAtribute\obj\Debug\net8.0\CustomAtribute.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CustomAtribute\obj\Debug\net8.0\CustomAtribute.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CustomAtribute\obj\Debug\net8.0\CustomAtribute.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CustomAtribute\obj\Debug\net8.0\refint\CustomAtribute.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CustomAtribute\obj\Debug\net8.0\CustomAtribute.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\CustomAtribute\obj\Debug\net8.0\ref\CustomAtribute.dll
