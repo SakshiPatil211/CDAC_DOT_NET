@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\bin\Debug\net8.0\Anonymous_Method.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\bin\Debug\net8.0\Anonymous_Method.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\bin\Debug\net8.0\Anonymous_Method.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\bin\Debug\net8.0\Anonymous_Method.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\bin\Debug\net8.0\Anonymous_Method.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\obj\Debug\net8.0\Anonymous_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\obj\Debug\net8.0\Anonymous_Method.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\obj\Debug\net8.0\Anonymous_Method.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\obj\Debug\net8.0\Anonymous_Method.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\obj\Debug\net8.0\Anonymous_Method.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\obj\Debug\net8.0\Anonymous_Method.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\obj\Debug\net8.0\refint\Anonymous_Method.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\obj\Debug\net8.0\Anonymous_Method.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\obj\Debug\net8.0\Anonymous_Method.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\Anonymous_Method\obj\Debug\net8.0\ref\Anonymous_Method.dll

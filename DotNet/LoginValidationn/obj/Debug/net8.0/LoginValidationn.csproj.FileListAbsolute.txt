@@ -1,0 +1,5 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\LoginValidationn\obj\Debug\net8.0\LoginValidationn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\LoginValidationn\obj\Debug\net8.0\LoginValidationn.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\LoginValidationn\obj\Debug\net8.0\LoginValidationn.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\LoginValidationn\obj\Debug\net8.0\LoginValidationn.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\LoginValidationn\obj\Debug\net8.0\LoginValidationn.sourcelink.json

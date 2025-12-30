@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\bin\Debug\net8.0\GarabageCollector.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\bin\Debug\net8.0\GarabageCollector.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\bin\Debug\net8.0\GarabageCollector.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\bin\Debug\net8.0\GarabageCollector.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\bin\Debug\net8.0\GarabageCollector.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\obj\Debug\net8.0\GarabageCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\obj\Debug\net8.0\GarabageCollector.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\obj\Debug\net8.0\GarabageCollector.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\obj\Debug\net8.0\GarabageCollector.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\obj\Debug\net8.0\GarabageCollector.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\obj\Debug\net8.0\GarabageCollector.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\obj\Debug\net8.0\refint\GarabageCollector.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\obj\Debug\net8.0\GarabageCollector.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\obj\Debug\net8.0\GarabageCollector.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\GarabageCollector\obj\Debug\net8.0\ref\GarabageCollector.dll

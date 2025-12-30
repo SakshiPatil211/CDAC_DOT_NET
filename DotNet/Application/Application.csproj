@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BVSAttribute\BVSAttributeLib.csproj" />
+    <ProjectReference Include="..\CustomAtribute\CustomAtribute.csproj" />
   </ItemGroup>
 
 </Project>

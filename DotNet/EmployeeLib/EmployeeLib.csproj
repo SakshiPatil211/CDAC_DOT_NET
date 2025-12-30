@@ -10,4 +10,10 @@
     <ProjectReference Include="..\CustomAtribute\CustomAtribute.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="CustomAtribute">
+      <HintPath>..\CustomAtribute\bin\Debug\net8.0\CustomAtribute.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\bin\Debug\net8.0\InBuildDelegate.exe
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\bin\Debug\net8.0\InBuildDelegate.deps.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\bin\Debug\net8.0\InBuildDelegate.runtimeconfig.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\bin\Debug\net8.0\InBuildDelegate.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\bin\Debug\net8.0\InBuildDelegate.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\obj\Debug\net8.0\InBuildDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\obj\Debug\net8.0\InBuildDelegate.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\obj\Debug\net8.0\InBuildDelegate.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\obj\Debug\net8.0\InBuildDelegate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\obj\Debug\net8.0\InBuildDelegate.sourcelink.json
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\obj\Debug\net8.0\InBuildDelegate.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\obj\Debug\net8.0\refint\InBuildDelegate.dll
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\obj\Debug\net8.0\InBuildDelegate.pdb
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\obj\Debug\net8.0\InBuildDelegate.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920071\CDAC_DOT_NET\DotNet\InBuildDelegate\obj\Debug\net8.0\ref\InBuildDelegate.dll
