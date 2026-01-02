@@ -1,0 +1,23 @@
+﻿<h2 style="color:orange">@ViewBag.msg</h2>
+
+<ul style="color:brown">
+    @{
+        Employee e1 = ViewBag.emp;
+        <li>Id: @e1.Id</li>
+        <li>Name: @e1.Name</li>
+        <li>Address: @e1.Address</li>
+    }
+</ul>
+
+<p>@ViewData["number"]</p>
+
+<ul style="color:rebeccapurple">
+    @{
+        Employee emp1 = ViewData["emp1"] as Employee;
+        <li>@emp1.Id</li>
+        <li>@emp1.Name</li>
+        <li>@emp1.Address</li>
+    }
+</ul>
+
+<h4 style="color:crimson">@ViewData["message"]</h4>

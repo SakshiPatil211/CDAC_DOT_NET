@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Convential(Custom)Routing/1.0.0": {
+        "runtime": {
+          "Convential(Custom)Routing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convential(Custom)Routing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
